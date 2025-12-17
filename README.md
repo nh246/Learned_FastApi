@@ -21,7 +21,7 @@ A FastAPI-based web service for predicting health insurance categories based on 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:nh246/Learned_FastApi.git
    cd Health_insurance_ai
    ```
 
